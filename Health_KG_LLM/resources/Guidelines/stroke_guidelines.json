@@ -1,0 +1,36 @@
+[
+    {
+      "HealthCondition": "Stroke",
+      "Frequency": { "Value": 3, "Unit": "per week" },
+      "Intensity": "Moderate",
+      "Duration": { "Value": 30, "Unit": "minutes" },
+      "Type": ["Aerobic (treadmill or over-ground walking, arm-/leg-cycling)"],
+      "HeartRateZone": "40-70% HRR",
+      "RestPeriod": "≤ 24 h between sessions; brief breaks if fatigue rises",
+      "Progression": "Add 5 min or slight speed every 2 weeks as tolerated",
+      "Supervision": "Begin with a stroke-specialist physiotherapist; monitor BP & HR, use safety harness if treadmill",
+      "Equipment": ["Treadmill with rails", "Arm/leg ergometer", "Heart-rate monitor"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Frequency": { "Value": 2, "Unit": "per week" },
+      "Intensity": "Moderate",
+      "Duration": { "Value": 30, "Unit": "minutes" },
+      "Type": ["Progressive resistance training (1–3 sets × 10–15 reps)"],
+      "RestPeriod": { "Value": 48, "Unit": "hours" },
+      "Progression": "Increase load ≤ 10 % once 15 reps feel easy and form is maintained",
+      "Supervision": "Initial technique instruction; support/strap hemiparetic limb as needed",
+      "Equipment": ["Resistance bands", "Weight machines", "Ankle weights"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Frequency": { "Value": 3, "Unit": "per week" },
+      "Intensity": "Low",
+      "Duration": { "Value": 20, "Unit": "minutes" },
+      "Type": ["Balance & functional mobility drills (sit-to-stand, step training, tandem stance)", "Flexibility stretching"],
+      "Progression": "Reduce hand support or add dual-task / eyes-closed challenges once stable",
+      "Supervision": "Exercise in a clutter-free space; have a stable rail or helper available",
+      "Equipment": ["Balance pad", "Stable chair/rail", "Yoga strap"]
+    }
+  ]
+  

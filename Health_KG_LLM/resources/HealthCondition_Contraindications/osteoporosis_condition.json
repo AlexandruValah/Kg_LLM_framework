@@ -1,0 +1,27 @@
+[
+    {
+      "HealthCondition": "Osteoporosis",
+      "Variation": "Osteopenia (early bone loss)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip"]
+    },
+    {
+      "HealthCondition": "Osteoporosis",
+      "Variation": "Osteoporosis (moderate)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Hip","Wrist"]
+    },
+    {
+      "HealthCondition": "Osteoporosis",
+      "Variation": "Severe Osteoporosis (high fracture risk)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Hip","Wrist","Ankle"]
+    }
+  ]
+  

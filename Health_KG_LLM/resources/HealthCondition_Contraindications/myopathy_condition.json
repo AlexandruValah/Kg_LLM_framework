@@ -1,0 +1,35 @@
+[
+    {
+      "HealthCondition": "Myopathy",
+      "Variation": "Congenital",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Shoulder","Spine"]
+    },
+    {
+      "HealthCondition": "Myopathy",
+      "Variation": "Metabolic",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Shoulder","Spine"]
+    },
+    {
+      "HealthCondition": "Myopathy",
+      "Variation": "Inflammatory (polymyositis, dermatomyositis)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Shoulder","Hip","Knee","Spine"]
+    },
+    {
+      "HealthCondition": "Myopathy",
+      "Variation": "Drug-induced",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Shoulder","Hip","Knee"]
+    }
+  ]
+  

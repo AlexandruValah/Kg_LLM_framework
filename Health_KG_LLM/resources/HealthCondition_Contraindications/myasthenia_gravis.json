@@ -1,0 +1,27 @@
+[
+    {
+      "HealthCondition": "Myasthenia Gravis",
+      "Variation": "Mild (ocular symptoms only)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Neck","Shoulder"]
+    },
+    {
+      "HealthCondition": "Myasthenia Gravis",
+      "Variation": "Moderate (generalized muscular weakness)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Neck","Shoulder","Hip","Knee"]
+    },
+    {
+      "HealthCondition": "Myasthenia Gravis",
+      "Variation": "Severe (respiratory involvement)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Neck","Shoulder","Spine","Hip","Knee"]
+    }
+  ]
+  

@@ -1,0 +1,57 @@
+[
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Frequency": {
+        "Value": 4,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 25,
+        "Unit": "minutes"
+      },
+      "Type": ["Low-impact aerobic", "Wheelchair or hand-cycle propulsion", "Aquatic exercise"],
+      "HeartRateZone": "50-70% max",
+      "Progression": "Add 5 minutes or small speed increments every 2 weeks",
+      "Supervision": "Initial assessment with physiotherapist or clinical exercise physiologist",
+      "Equipment": ["Recumbent/hand cycle", "Accessible pool", "Heart-rate monitor"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": ["Progressive resistance training"],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase load 5-10% when 12 reps feel easy",
+      "Supervision": "Guided by physiotherapist to manage spasticity patterns",
+      "Equipment": ["Resistance bands", "Weight machines with trunk support", "Ankle weights"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": ["Flexibility stretching", "Balance & coordination drills"],
+      "RestPeriod": "As needed",
+      "Progression": "Increase stretch holds to 30 s and add unstable surfaces as tolerated",
+      "Supervision": "Follow individualized stretching plan from therapist",
+      "Equipment": ["Foam roller", "Balance board", "Therapy ball"]
+    }
+  ]
+  

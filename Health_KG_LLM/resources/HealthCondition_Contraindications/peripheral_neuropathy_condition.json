@@ -1,0 +1,67 @@
+[
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Variation": "Diabetic neuropathy - Lower extremities",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Variation": "Diabetic neuropathy - Upper extremities",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Wrist","Elbow"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Variation": "Chemotherapy-induced neuropathy - Lower extremities",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Variation": "Chemotherapy-induced neuropathy - Upper extremities",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Wrist","Elbow"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Variation": "Alcoholic neuropathy - Lower extremities",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Variation": "Alcoholic neuropathy - Upper extremities",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Wrist","Elbow"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Variation": "Idiopathic neuropathy - Lower extremities",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Variation": "Idiopathic neuropathy - Upper extremities",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Wrist","Elbow"]
+    }
+  ]
+  

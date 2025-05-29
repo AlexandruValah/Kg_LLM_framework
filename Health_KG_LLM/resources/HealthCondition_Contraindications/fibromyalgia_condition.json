@@ -1,0 +1,27 @@
+[
+    {
+      "HealthCondition": "Fibromyalgia",
+      "Variation": "Mild",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Fibromyalgia",
+      "Variation": "Moderate",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Fibromyalgia",
+      "Variation": "Severe",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["None"]
+    }
+  ]
+  

@@ -1,0 +1,81 @@
+[
+    {
+      "HealthCondition": "Paraplegia (Wheelchair-bound)",
+      "Frequency": {
+        "Value": 4,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Upper-body aerobic (arm-crank ergometer)",
+        "Wheelchair-propulsion intervals",
+        "Circuit resistance-aerobic"
+      ],
+      "HeartRateZone": "50-70% max",
+      "RestPeriod": "Brief 1–2-min breaks every 5–10 min; avoid >48 h between sessions",
+      "Progression": "Add 3-5 min per session every 2 weeks if no delayed fatigue",
+      "Supervision": "Begin in a temperature-controlled gym with a physiotherapist; monitor skin integrity & blood pressure",
+      "Equipment": [
+        "Arm ergometer",
+        "Wheelchair rollers or tread-treadmill",
+        "Heart-rate monitor"
+      ]
+    },
+    {
+      "HealthCondition": "Paraplegia (Wheelchair-bound)",
+      "Frequency": {
+        "Value": 2,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Progressive resistance training (shoulder, chest, back, arms, core)"
+      ],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase load 5–10 % when 12 reps feel comfortable; emphasise slow, concentric control",
+      "Supervision": "Initial technique taught by a physiotherapist to prevent shoulder overuse",
+      "Equipment": [
+        "Resistance bands",
+        "Cable machine",
+        "Adjustable dumbbells",
+        "Wheelchair-accessible weight machines"
+      ]
+    },
+    {
+      "HealthCondition": "Paraplegia (Wheelchair-bound)",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Flexibility & ROM (shoulders, wrists, hip flexors, hamstrings)",
+        "Seated posture & pressure-relief drills"
+      ],
+      "RestPeriod": "As needed",
+      "Progression": "Extend stretch holds to 30 s; add dynamic shoulder mobility as tolerated",
+      "Supervision": "Follow an individualised home programme; ensure safe transfer positioning",
+      "Equipment": [
+        "Yoga strap",
+        "Foam roller",
+        "Therapy ball",
+        "Wheelchair cushion"
+      ]
+    }
+  ]
+  

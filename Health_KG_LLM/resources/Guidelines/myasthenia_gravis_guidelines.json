@@ -1,0 +1,58 @@
+[
+    {
+      "HealthCondition": "Myasthenia Gravis",
+      "Frequency": {
+        "Value": 4,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 25,
+        "Unit": "minutes"
+      },
+      "Type": ["Low-impact aerobic (walking, recumbent cycling, swimming)"],
+      "HeartRateZone": "50-65% max",
+      "RestPeriod": "1–2-minute pauses every 5–10 min to manage fatigability & heat",
+      "Progression": "Add ≈5 min every 2–3 weeks only if no post-exercise weakness",
+      "Supervision": "Exercise during peak medication effect; begin with a physiotherapist; consider cooling vest/towel",
+      "Equipment": ["Recumbent bike", "Cooling towel/vest", "Heart-rate monitor"]
+    },
+    {
+      "HealthCondition": "Myasthenia Gravis",
+      "Frequency": {
+        "Value": 2,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 25,
+        "Unit": "minutes"
+      },
+      "Type": ["Progressive resistance training (major muscle groups)"],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase resistance ≤10 % when 12 reps feel easy and no residual fatigue; avoid high-load eccentric work",
+      "Supervision": "Initial sessions with physiotherapist to monitor form, breathing & fatigue",
+      "Equipment": ["Resistance bands", "Light dumbbells", "Weight machines with support"]
+    },
+    {
+      "HealthCondition": "Myasthenia Gravis",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Very Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": ["Gentle flexibility & assisted stretching", "Diaphragmatic breathing / inspiratory-muscle training"],
+      "RestPeriod": "As needed",
+      "Progression": "Gradually extend stretch holds to 30 s and add breathing sets as tolerated",
+      "Supervision": "Follow individualized programme from physiotherapist or respiratory therapist",
+      "Equipment": ["Yoga strap", "Foam roller", "Inspiratory muscle trainer"]
+    }
+  ]
+  

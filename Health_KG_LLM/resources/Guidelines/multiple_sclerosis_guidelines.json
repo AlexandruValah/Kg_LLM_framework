@@ -1,0 +1,81 @@
+[
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Low-impact aerobic (recumbent cycling, treadmill / elliptical walking)",
+        "Aquatic exercise"
+      ],
+      "HeartRateZone": "50-70% max",
+      "RestPeriod": "1–2-minute breaks every 5–10 minutes to manage fatigue & heat",
+      "Progression": "Add 5 minutes or slight speed every 2 weeks if symptom-free",
+      "Supervision": "Begin in a climate-controlled setting with a physiotherapist; use cooling vest/towel as needed",
+      "Equipment": [
+        "Recumbent bike",
+        "Elliptical",
+        "Cooling vest or towel",
+        "Heart-rate monitor"
+      ]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Frequency": {
+        "Value": 2,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 25,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Progressive resistance training (major muscle groups)",
+        "Core stabilization"
+      ],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase resistance 5–10 % when 12 reps are completed without excessive fatigue",
+      "Supervision": "Initial sessions with physiotherapist to monitor form and spasticity",
+      "Equipment": [
+        "Resistance bands",
+        "Weight machines with trunk support",
+        "Light dumbbells"
+      ]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Flexibility stretching (hip flexors, hamstrings, calves)",
+        "Balance & coordination drills (tandem stance, wobble board)"
+      ],
+      "RestPeriod": "As needed",
+      "Progression": "Extend each stretch to 30 s and reduce hand support during balance drills as tolerated",
+      "Supervision": "Follow an individualized plan to avoid overstretching spastic muscles; ensure a safe environment",
+      "Equipment": [
+        "Yoga strap",
+        "Foam roller",
+        "Balance board",
+        "Stable support surface"
+      ]
+    }
+  ]
+  

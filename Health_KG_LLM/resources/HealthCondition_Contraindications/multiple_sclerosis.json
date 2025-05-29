@@ -1,0 +1,75 @@
+[
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Relapsing-Remitting MS (RRMS) - Mild",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Relapsing-Remitting MS (RRMS) - Moderate",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee","Hip"]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Relapsing-Remitting MS (RRMS) - Severe (significant mobility impairment)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee","Hip","Spine"]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Primary Progressive MS (PPMS) - Mild",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Primary Progressive MS (PPMS) - Moderate",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee","Hip"]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Primary Progressive MS (PPMS) - Severe (significant mobility impairment)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee","Hip","Spine"]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Secondary Progressive MS (SPMS) - Mild",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Secondary Progressive MS (SPMS) - Moderate",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee","Hip"]
+    },
+    {
+      "HealthCondition": "Multiple Sclerosis",
+      "Variation": "Secondary Progressive MS (SPMS) - Severe (significant mobility impairment)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee","Hip","Spine"]
+    }
+  ]
+  

@@ -1,0 +1,57 @@
+[
+    {
+      "HealthCondition": "Chronic Fatigue Syndrome",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Very Low",
+      "Duration": {
+        "Value": 10,
+        "Unit": "minutes"
+      },
+      "Type": ["Gentle flexibility", "Range-of-motion"],
+      "RestPeriod": "As needed within and between sets",
+      "Progression": "Increase hold time or repetitions only after 7 consecutive symptom-free days",
+      "Supervision": "Initial guidance from a physiotherapist familiar with CFS",
+      "Equipment": ["Yoga strap", "Foam roller"]
+    },
+    {
+      "HealthCondition": "Chronic Fatigue Syndrome",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Very Low to Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": ["Intermittent walking", "Recumbent cycling"],
+      "HeartRateZone": "≤ 40-50% max or below anaerobic threshold",
+      "RestPeriod": {
+        "Value": 24,
+        "Unit": "hours"
+      },
+      "Progression": "Add 1-2 minutes of total activity every 1-2 weeks only if no post-exertional malaise occurs",
+      "Supervision": "Use heart-rate monitor and symptom diary to stay within the energy envelope",
+      "Equipment": ["Heart-rate monitor", "Recumbent bike", "Supportive footwear"]
+    },
+    {
+      "HealthCondition": "Chronic Fatigue Syndrome",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Very Low",
+      "Duration": {
+        "Value": 5,
+        "Unit": "minutes"
+      },
+      "Type": ["Breathing exercises", "Mindfulness / relaxation"],
+      "Progression": "Gradually extend session length to 10 minutes as tolerated",
+      "Supervision": "Guided by a relaxation app or therapist skilled in pacing strategies",
+      "Equipment": ["Quiet space", "Mat or chair"]
+    }
+  ]
+  

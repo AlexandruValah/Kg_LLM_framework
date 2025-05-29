@@ -1,0 +1,58 @@
+[
+    {
+      "HealthCondition": "Fibromyalgia",
+      "Frequency": {
+        "Value": 4,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 25,
+        "Unit": "minutes"
+      },
+      "Type": ["Low-impact aerobic (brisk walking, cycling)", "Aquatic exercise"],
+      "HeartRateZone": "50-65% max",
+      "RestPeriod": "Pause or shorten session if pain or fatigue spikes",
+      "Progression": "Add 5 minutes every 2–3 weeks only if symptom flare-ups are absent",
+      "Supervision": "Initial coaching by physiotherapist to teach pacing & symptom monitoring",
+      "Equipment": ["Comfortable footwear", "Stationary bike or pool access", "Heart-rate monitor"]
+    },
+    {
+      "HealthCondition": "Fibromyalgia",
+      "Frequency": {
+        "Value": 2,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 20,
+        "Unit": "minutes"
+      },
+      "Type": ["Resistance training (major muscle groups)"],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase resistance or reps by ≤10 % when sets feel comfortable and pain-free",
+      "Supervision": "Begin with light loads under guidance to ensure controlled tempo",
+      "Equipment": ["Resistance bands", "Light dumbbells", "Cable machine with low weights"]
+    },
+    {
+      "HealthCondition": "Fibromyalgia",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Very Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": ["Gentle flexibility stretching", "Mind-body (yoga, tai chi)"],
+      "RestPeriod": "As needed",
+      "Progression": "Gradually extend stretch holds to 30 s or add one extra pose every 2 weeks",
+      "Supervision": "Follow instructor-led classes or approved videos to avoid over-stretching",
+      "Equipment": ["Yoga mat", "Yoga strap", "Chair for support if needed"]
+    }
+  ]
+  

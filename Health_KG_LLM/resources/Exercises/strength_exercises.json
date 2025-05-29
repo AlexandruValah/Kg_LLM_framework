@@ -1,0 +1,202 @@
+[
+  {
+    "ExerciseName": "Push-ups",
+    "ExerciseType": "Strength",
+    "Description": "A bodyweight exercise that works the chest, shoulders, and triceps",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Moderate",
+    "JointInvolvement": ["Shoulder", "Elbow", "Wrist"],
+    "Equipment": ["None"]
+  },
+  {
+    "ExerciseName": "Squats",
+    "ExerciseType": "Strength",
+    "Description": "Lower body compound exercise targeting the quadriceps, hamstrings, and glutes",
+    "ImpactLevel": "Moderate",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Moderate",
+    "JointInvolvement": ["Hip", "Knee", "Ankle"],
+    "Equipment": ["None"]
+  },
+  {
+    "ExerciseName": "Deadlift",
+    "ExerciseType": "Strength",
+    "Description": "A compound exercise focusing on the posterior chain including lower back, glutes, and hamstrings",
+    "ImpactLevel": "Moderate",
+    "Intensity": "High",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Hip", "Knee", "Spine"],
+    "Equipment": ["Barbell", "Weights"]
+  },
+  {
+    "ExerciseName": "Dumbbell Shoulder Press",
+    "ExerciseType": "Strength",
+    "Description": "An upper body exercise targeting the deltoids and triceps using dumbbells",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Shoulder", "Elbow"],
+    "Equipment": ["Dumbbells"]
+  },
+  {
+    "ExerciseName": "Lunges",
+    "ExerciseType": "Strength",
+    "Description": "A unilateral lower body exercise that strengthens quads, glutes, and hamstrings while improving balance",
+    "ImpactLevel": "Moderate",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "High",
+    "JointInvolvement": ["Hip", "Knee", "Ankle"],
+    "Equipment": ["None"]
+  },
+  {
+    "ExerciseName": "Plank with Arm Lift",
+    "ExerciseType": "Strength",
+    "Description": "A core stabilization exercise that also challenges shoulder and arm muscles",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "High",
+    "JointInvolvement": ["Shoulder", "Elbow", "Wrist", "Spine"],
+    "Equipment": ["None"]
+  },
+  {
+    "ExerciseName": "Bent-over Rows",
+    "ExerciseType": "Strength",
+    "Description": "A back strengthening exercise targeting the lats, rhomboids, and biceps using weights",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Moderate",
+    "JointInvolvement": ["Shoulder", "Elbow", "Spine"],
+    "Equipment": ["Barbell", "Dumbbells"]
+  },
+  {
+    "ExerciseName": "Glute Bridge",
+    "ExerciseType": "Strength",
+    "Description": "A hip extension exercise that targets glutes and hamstrings, often used for core stability",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Hip", "Knee", "Spine"],
+    "Equipment": ["None"]
+  },
+  {
+    "ExerciseName": "Chest Press",
+    "ExerciseType": "Strength",
+    "Description": "A pressing exercise to build chest, shoulders, and triceps using a bench and dumbbells or barbell",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Shoulder", "Elbow"],
+    "Equipment": ["Bench", "Dumbbells", "Barbell"]
+  },
+  {
+    "ExerciseName": "Calf Raises",
+    "ExerciseType": "Strength",
+    "Description": "Isolated exercise targeting the calf muscles through ankle plantarflexion",
+    "ImpactLevel": "Low",
+    "Intensity": "Low",
+    "BalanceRequirement": "Moderate",
+    "JointInvolvement": ["Ankle"],
+    "Equipment": ["None", "Weights (optional)"]
+  },
+  {
+    "ExerciseName": "Pull-ups",
+    "ExerciseType": "Strength",
+    "Description": "Upper body pulling exercise targeting the back, shoulders, and biceps using bodyweight",
+    "ImpactLevel": "Moderate",
+    "Intensity": "High",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Shoulder", "Elbow", "Wrist"],
+    "Equipment": ["Pull-up Bar"]
+  },
+  {
+    "ExerciseName": "Dumbbell Bicep Curl",
+    "ExerciseType": "Strength",
+    "Description": "Isolated arm exercise focusing on the biceps muscles using dumbbells",
+    "ImpactLevel": "Low",
+    "Intensity": "Low",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Elbow"],
+    "Equipment": ["Dumbbells"]
+  },
+  {
+    "ExerciseName": "Tricep Dips",
+    "ExerciseType": "Strength",
+    "Description": "Bodyweight exercise targeting the triceps, chest, and shoulders using parallel bars or bench",
+    "ImpactLevel": "Moderate",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Shoulder", "Elbow"],
+    "Equipment": ["Parallel Bars", "Bench"]
+  },
+  {
+    "ExerciseName": "Farmer's Walk",
+    "ExerciseType": "Strength",
+    "Description": "Loaded carry exercise that builds grip, forearms, shoulders, and core stability",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Moderate",
+    "JointInvolvement": ["Shoulder", "Wrist", "Spine", "Ankle"],
+    "Equipment": ["Dumbbells", "Kettlebells"]
+  },
+  {
+    "ExerciseName": "Step-ups",
+    "ExerciseType": "Strength",
+    "Description": "Unilateral leg exercise focusing on quads and glutes by stepping onto an elevated platform",
+    "ImpactLevel": "Moderate",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "High",
+    "JointInvolvement": ["Hip", "Knee", "Ankle"],
+    "Equipment": ["Step", "Box"]
+  },
+  {
+    "ExerciseName": "Russian Twists",
+    "ExerciseType": "Strength",
+    "Description": "Rotational core exercise targeting obliques and abdominal muscles",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Moderate",
+    "JointInvolvement": ["Spine", "Hip"],
+    "Equipment": ["None", "Medicine Ball (optional)"]
+  },
+  {
+    "ExerciseName": "Overhead Tricep Extension",
+    "ExerciseType": "Strength",
+    "Description": "Isolated exercise focusing on the triceps using dumbbells or cables",
+    "ImpactLevel": "Low",
+    "Intensity": "Low",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Elbow", "Shoulder"],
+    "Equipment": ["Dumbbells", "Cable Machine"]
+  },
+  {
+    "ExerciseName": "Leg Press",
+    "ExerciseType": "Strength",
+    "Description": "Machine-based lower body exercise targeting quadriceps, hamstrings, and glutes",
+    "ImpactLevel": "Low",
+    "Intensity": "High",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Hip", "Knee", "Ankle"],
+    "Equipment": ["Leg Press Machine"]
+  },
+  {
+    "ExerciseName": "Hip Thrust",
+    "ExerciseType": "Strength",
+    "Description": "Glute-dominant exercise to improve hip extension and posterior chain strength",
+    "ImpactLevel": "Low",
+    "Intensity": "Moderate",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Hip", "Knee"],
+    "Equipment": ["Bench", "Barbell"]
+  },
+  {
+    "ExerciseName": "Chest Fly",
+    "ExerciseType": "Strength",
+    "Description": "Isolation exercise targeting the pectoral muscles using dumbbells or cables",
+    "ImpactLevel": "Low",
+    "Intensity": "Low",
+    "BalanceRequirement": "Low",
+    "JointInvolvement": ["Shoulder"],
+    "Equipment": ["Dumbbells", "Cable Machine"]
+  }
+]

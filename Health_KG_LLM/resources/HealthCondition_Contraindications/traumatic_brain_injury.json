@@ -1,0 +1,27 @@
+[
+    {
+      "HealthCondition": "Traumatic Brain Injury (TBI)",
+      "Variation": "Mild (concussion)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Traumatic Brain Injury (TBI)",
+      "Variation": "Moderate (long-term impairment)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Neck","Spine","Hip"]
+    },
+    {
+      "HealthCondition": "Traumatic Brain Injury (TBI)",
+      "Variation": "Severe (extensive brain injury)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Neck","Spine","Shoulder","Hip","Knee"]
+    }
+  ]
+  

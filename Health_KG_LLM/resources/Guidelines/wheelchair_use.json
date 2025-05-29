@@ -1,0 +1,48 @@
+[
+    {
+      "HealthCondition": "Wheelchair Use",
+      "Frequency": { "Value": 5, "Unit": "per week" },
+      "Intensity": "Moderate",
+      "Duration": { "Value": 30, "Unit": "minutes" },
+      "Type": [
+        "Upper-body aerobic (arm-crank ergometer, wheelchair-propulsion intervals, seated rowing)",
+        "Low-impact aquatic exercise"
+      ],
+      "HeartRateZone": "50-70% max",
+      "RestPeriod": "Brief 1–2-min breaks every 5–10 min; avoid >24 h between sessions",
+      "Progression": "Add 5 min to each session every 2 weeks if shoulders are pain-free",
+      "Supervision": "Initial assessment with a wheelchair-trained physiotherapist; monitor skin & shoulder strain",
+      "Equipment": ["Arm ergometer", "Wheelchair rollers or treadmill", "Heart-rate monitor"]
+    },
+    {
+      "HealthCondition": "Wheelchair Use",
+      "Frequency": { "Value": 2, "Unit": "per week" },
+      "Intensity": "Moderate",
+      "Duration": { "Value": 30, "Unit": "minutes" },
+      "Type": ["Progressive resistance training (shoulders, chest, back, arms, core)"],
+      "RestPeriod": { "Value": 48, "Unit": "hours" },
+      "Progression": "Increase resistance 5–10 % when 12 reps feel easy and pain-free",
+      "Supervision": "Start with a physiotherapist to prevent over-use injury and ensure posture",
+      "Equipment": [
+        "Resistance bands",
+        "Cable machine",
+        "Adjustable dumbbells",
+        "Wheelchair-accessible weight machines"
+      ]
+    },
+    {
+      "HealthCondition": "Wheelchair Use",
+      "Frequency": { "Value": 5, "Unit": "per week" },
+      "Intensity": "Low",
+      "Duration": { "Value": 15, "Unit": "minutes" },
+      "Type": [
+        "Flexibility & ROM (neck, shoulders, trunk, hip flexors)",
+        "Pressure-relief push-ups / leans every 15–30 min for 30–90 s"
+      ],
+      "RestPeriod": "As needed",
+      "Progression": "Extend stretch holds to 30 s; add thoracic rotations once comfortable",
+      "Supervision": "Follow individual plan; maintain safe posture during pressure relief",
+      "Equipment": ["Yoga strap", "Foam roller", "Therapy ball", "Wheelchair cushion"]
+    }
+  ]
+  

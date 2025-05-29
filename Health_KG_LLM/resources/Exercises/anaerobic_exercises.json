@@ -1,0 +1,203 @@
+[
+    {
+      "ExerciseName": "Sprint Intervals",
+      "ExerciseType": "Anaerobic",
+      "Description": "Short bursts of maximum effort running followed by rest or low-intensity recovery",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Box Jumps",
+      "ExerciseType": "Anaerobic",
+      "Description": "Explosive plyometric jump onto a raised platform to build power and speed",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["Box", "Platform"]
+    },
+    {
+      "ExerciseName": "Kettlebell Swings",
+      "ExerciseType": "Anaerobic",
+      "Description": "Powerful hip hinge movement swinging a kettlebell to shoulder height or above",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Hip", "Knee", "Shoulder", "Spine"],
+      "Equipment": ["Kettlebell"]
+    },
+    {
+      "ExerciseName": "Battle Ropes",
+      "ExerciseType": "Anaerobic",
+      "Description": "High-intensity arm and core workout involving rapid rope waves or slams",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Shoulder", "Elbow", "Wrist"],
+      "Equipment": ["Battle Ropes"]
+    },
+    {
+      "ExerciseName": "Medicine Ball Slams",
+      "ExerciseType": "Anaerobic",
+      "Description": "Explosive movement throwing a medicine ball downwards to develop power",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Shoulder", "Elbow", "Spine"],
+      "Equipment": ["Medicine Ball"]
+    },
+    {
+      "ExerciseName": "Jump Squats",
+      "ExerciseType": "Anaerobic",
+      "Description": "Powerful squat combined with an explosive vertical jump to increase leg power",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Push-up Claps",
+      "ExerciseType": "Anaerobic",
+      "Description": "Plyometric push-ups where hands leave the ground and clap mid-air for explosive upper body power",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Shoulder", "Elbow", "Wrist"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Sled Push",
+      "ExerciseType": "Anaerobic",
+      "Description": "Max effort pushing a weighted sled for short distances to develop strength and power",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Hip", "Knee", "Ankle", "Shoulder"],
+      "Equipment": ["Sled", "Weights"]
+    },
+    {
+      "ExerciseName": "Hill Sprints",
+      "ExerciseType": "Anaerobic",
+      "Description": "Short distance sprints performed uphill to increase power and anaerobic capacity",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["Hill or Incline Surface"]
+    },
+    {
+      "ExerciseName": "Tire Flips",
+      "ExerciseType": "Anaerobic",
+      "Description": "Explosive full-body exercise flipping a heavy tire for strength and power",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Hip", "Knee", "Spine", "Shoulder"],
+      "Equipment": ["Large Tire"]
+    },
+    {
+      "ExerciseName": "Broad Jumps",
+      "ExerciseType": "Anaerobic",
+      "Description": "Maximal horizontal jumps to build explosive leg power and coordination",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Clean and Jerk",
+      "ExerciseType": "Anaerobic",
+      "Description": "Olympic lift requiring explosive strength to lift a barbell from ground to overhead",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee", "Ankle", "Shoulder", "Elbow"],
+      "Equipment": ["Barbell", "Weights"]
+    },
+    {
+      "ExerciseName": "Snatch",
+      "ExerciseType": "Anaerobic",
+      "Description": "Olympic weightlifting move lifting the barbell overhead in one explosive motion",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee", "Ankle", "Shoulder", "Elbow"],
+      "Equipment": ["Barbell", "Weights"]
+    },
+    {
+      "ExerciseName": "Kettlebell Clean and Press",
+      "ExerciseType": "Anaerobic",
+      "Description": "Explosive kettlebell movement cleaning the weight to shoulder and pressing overhead",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Hip", "Knee", "Shoulder", "Elbow"],
+      "Equipment": ["Kettlebell"]
+    },
+    {
+      "ExerciseName": "Jump Lunges",
+      "ExerciseType": "Anaerobic",
+      "Description": "Plyometric lunge variation involving jumping and switching legs mid-air for power and endurance",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Medicine Ball Chest Pass",
+      "ExerciseType": "Anaerobic",
+      "Description": "Explosive upper body exercise throwing a medicine ball forward for power development",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Shoulder", "Elbow", "Chest"],
+      "Equipment": ["Medicine Ball"]
+    },
+    {
+      "ExerciseName": "Plyometric Push-ups",
+      "ExerciseType": "Anaerobic",
+      "Description": "Explosive push-ups where hands push off the floor with force, increasing upper body power",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Shoulder", "Elbow", "Wrist"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Sprints on Stationary Bike",
+      "ExerciseType": "Anaerobic",
+      "Description": "Short bursts of maximum effort pedaling on a stationary bike followed by rest",
+      "ImpactLevel": "Low",
+      "Intensity": "High",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["Stationary Bike"]
+    },
+    {
+      "ExerciseName": "Jump Rope Sprints",
+      "ExerciseType": "Anaerobic",
+      "Description": "High-speed jump rope intervals for short durations to improve power and anaerobic endurance",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Ankle", "Knee", "Wrist", "Shoulder"],
+      "Equipment": ["Jump Rope"]
+    },
+    {
+      "ExerciseName": "Hill Sprints",
+      "ExerciseType": "Anaerobic",
+      "Description": "Short, intense uphill sprints to improve explosive strength and anaerobic capacity",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["Hill or Incline Surface"]
+    }
+  ]
+  

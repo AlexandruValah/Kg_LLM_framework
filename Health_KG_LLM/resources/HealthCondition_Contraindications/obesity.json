@@ -1,0 +1,35 @@
+[
+    {
+      "HealthCondition": "Obesity",
+      "Variation": "Overweight (BMI 25–29.9)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Obesity",
+      "Variation": "Obesity class I (BMI 30–34.9)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Knee","Ankle","Hip"]
+    },
+    {
+      "HealthCondition": "Obesity",
+      "Variation": "Obesity class II (BMI 35–39.9)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Knee","Ankle","Hip"]
+    },
+    {
+      "HealthCondition": "Obesity",
+      "Variation": "Obesity class III (BMI ≥40)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Knee","Ankle","Hip","Spine"]
+    }
+  ]
+  

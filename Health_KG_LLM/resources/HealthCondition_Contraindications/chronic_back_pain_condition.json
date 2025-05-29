@@ -1,0 +1,123 @@
+[
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Lower back (lumbar) - Mechanical",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Lower back (lumbar) - Disc degeneration",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Hip"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Lower back (lumbar) - Herniation",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Lower back (lumbar) - Spinal stenosis",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Hip"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Lower back (lumbar) - Scoliosis",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Hip"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Mid-back (thoracic) - Mechanical",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Shoulder"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Mid-back (thoracic) - Disc degeneration",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Shoulder"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Mid-back (thoracic) - Herniation",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Shoulder"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Mid-back (thoracic) - Spinal stenosis",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Shoulder"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Mid-back (thoracic) - Scoliosis",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Shoulder"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Upper back/neck (cervical) - Mechanical",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Neck"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Upper back/neck (cervical) - Disc degeneration",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Neck"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Upper back/neck (cervical) - Herniation",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Neck"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Upper back/neck (cervical) - Spinal stenosis",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Neck"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Variation": "Upper back/neck (cervical) - Scoliosis",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Neck"]
+    }
+  ]
+  

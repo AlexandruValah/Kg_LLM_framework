@@ -1,0 +1,41 @@
+[
+    {
+      "HealthCondition": "Traumatic Brain Injury (TBI)",
+      "Frequency": { "Value": 4, "Unit": "per week" },
+      "Intensity": "Low-to-Moderate (sub-symptom threshold)",
+      "Duration": { "Value": 30, "Unit": "minutes" },
+      "Type": [
+        "Low-impact aerobic (over-ground or treadmill walking with rails, stationary or arm cycling, aquatic exercise)"
+      ],
+      "HeartRateZone": "40-70% HRR or RPE 11-14—stop if symptoms last >60 min",
+      "RestPeriod": "Brief 1–2-min pauses every 5–10 min; avoid >48 h between sessions",
+      "Progression": "Add 5 min or slight speed/grade every 2 weeks when symptom-free",
+      "Supervision": "Begin during ‘good’ cognitive periods with a neuro-PT; monitor HR, BP & symptom diary",
+      "Equipment": ["Treadmill with safety rails", "Stationary/arm ergometer", "Heart-rate monitor"]
+    },
+    {
+      "HealthCondition": "Traumatic Brain Injury (TBI)",
+      "Frequency": { "Value": 2, "Unit": "per week" },
+      "Intensity": "Low-to-Moderate",
+      "Duration": { "Value": 30, "Unit": "minutes" },
+      "Type": ["Progressive resistance training (8–10 major muscle groups, slow concentric tempo)"],
+      "RestPeriod": { "Value": 48, "Unit": "hours" },
+      "Progression": "Increase load ≤10 % when 12 reps feel easy and no post-exercise fatigue",
+      "Supervision": "Initial technique with PT/trainer; strap or support paretic limb if needed",
+      "Equipment": ["Resistance bands", "Adjustable dumbbells", "Seated weight machines"]
+    },
+    {
+      "HealthCondition": "Traumatic Brain Injury (TBI)",
+      "Frequency": { "Value": 3, "Unit": "per week" },
+      "Intensity": "Low",
+      "Duration": { "Value": 20, "Unit": "minutes" },
+      "Type": [
+        "Balance & vestibular drills (tandem stance, gaze-stabilisation, obstacle steps)",
+        "Flexibility for neck, trunk & lower limbs"
+      ],
+      "Progression": "Reduce hand support or add dual-task/eyes-closed challenges once steady",
+      "Supervision": "Train near a stable rail or partner; stop if dizziness or headache spikes",
+      "Equipment": ["Balance pad", "Stable chair/rail", "Therapy ball"]
+    }
+  ]
+  

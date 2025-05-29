@@ -1,0 +1,67 @@
+[
+    {
+      "HealthCondition": "Amputees",
+      "Variation": "Unilateral Upper Extremity",
+      "ImpactLevel": "High",
+      "Intensity": "NULL",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Shoulder", "Elbow", "Wrist"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Variation": "Unilateral Lower Extremity Above-knee (transfemoral)",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Variation": "Unilateral Lower Extremity Below-knee (transtibial)",
+      "ImpactLevel": "High",
+      "Intensity": "NULL",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Knee", "Ankle"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Variation": "Bilateral Upper Extremity",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Shoulder", "Elbow", "Wrist"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Variation": "Bilateral Lower Extremity Above-knee (transfemoral)",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Variation": "Bilateral Lower Extremity Below-knee (transtibial)",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Knee", "Ankle"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Variation": "Unilateral Upper Extremity Above-elbow (transhumeral)",
+      "ImpactLevel": "High",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Shoulder", "Elbow"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Variation": "Unilateral Upper Extremity Below-elbow (transradial)",
+      "ImpactLevel": "High",
+      "Intensity": "NULL",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Elbow", "Wrist"]
+    }
+  ]
+  

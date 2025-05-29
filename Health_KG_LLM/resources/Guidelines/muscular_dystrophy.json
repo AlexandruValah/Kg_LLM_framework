@@ -1,0 +1,58 @@
+[
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 25,
+        "Unit": "minutes"
+      },
+      "Type": ["Low-impact aerobic (recumbent cycling, swimming, arm-ergometry)"],
+      "HeartRateZone": "50-65% max",
+      "RestPeriod": "Brief breaks every 5-10 min if fatigue rises",
+      "Progression": "Add 3-5 min to a session every 2–3 weeks provided no prolonged soreness",
+      "Supervision": "Begin in temperature-controlled setting with physiotherapist; monitor perceived exertion & hydration",
+      "Equipment": ["Recumbent/arm cycle", "Pool access", "Heart-rate monitor"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Frequency": {
+        "Value": 2,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": ["Progressive resistance training (major muscle groups)"],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase resistance ≤10 % when 12 reps are completed without undue fatigue; avoid high-load eccentric work",
+      "Supervision": "Initial sessions with physiotherapist to ensure controlled tempo and joint protection",
+      "Equipment": ["Resistance bands", "Light dumbbells", "Weight machines with adjustable support"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Very Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": ["Gentle flexibility & assisted stretching", "Respiratory muscle/breathing exercises"],
+      "RestPeriod": "As needed",
+      "Progression": "Gradually extend stretch holds to 30 s; add diaphragmatic breathing sets as tolerated",
+      "Supervision": "Follow individualized home programme from physiotherapist or respiratory therapist",
+      "Equipment": ["Yoga strap", "Foam roller", "Inspiratory muscle trainer"]
+    }
+  ]
+  

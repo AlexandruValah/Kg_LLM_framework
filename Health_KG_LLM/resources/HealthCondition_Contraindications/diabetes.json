@@ -1,0 +1,67 @@
+[
+    {
+      "HealthCondition": "Diabetes",
+      "Variation": "Type 1 Diabetes - Controlled",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Variation": "Type 1 Diabetes - Poorly controlled",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Variation": "Type 2 Diabetes - Controlled - No complications, normal weight",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Variation": "Type 2 Diabetes - Controlled - Overweight/obese",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Variation": "Type 2 Diabetes - Controlled - With mild joint pain",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Knee","Hip"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Variation": "Type 2 Diabetes - Poorly controlled - No neuropathy",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Variation": "Type 2 Diabetes - Poorly controlled - With peripheral neuropathy",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Variation": "Type 2 Diabetes - Poorly controlled - With joint damage (arthropathy)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Knee","Hip","Spine"]
+    }
+  ]
+  

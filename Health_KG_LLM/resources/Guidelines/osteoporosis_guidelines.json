@@ -1,0 +1,55 @@
+[
+  {
+    "HealthCondition": "Osteoporosis",
+    "Frequency": {
+      "Value": 3,
+      "Unit": "per week"
+    },
+    "Intensity": "Moderate",
+    "Duration": {
+      "Value": 30,
+      "Unit": "minutes"
+    },
+    "Type": ["Resistance training", "Weight-bearing aerobic"],
+    "RestPeriod": {
+      "Value": 48,
+      "Unit": "hours"
+    },
+    "HeartRateZone": "50-70% max",
+    "Progression": "Gradual weight increase",
+    "Supervision": "Initial professional guidance",
+    "Equipment": ["Resistance bands", "Light dumbbells"]
+  },
+  
+  {
+    "HealthCondition": "Osteoporosis",
+    "Frequency": {
+      "Value": 2,
+      "Unit": "per week"
+    },
+    "Intensity": "Low",
+    "Duration": {
+      "Value": 20,
+      "Unit": "minutes"
+    },
+    "Type": "Balance exercises",
+    "Progression": "Add unstable surfaces as strength improves",
+    "Equipment": "Balance pad"
+  },
+  {
+    "HealthCondition": "Osteoporosis",
+    "Frequency": {
+      "Value": 5,
+      "Unit": "per week"
+    },
+    "Intensity": "Low",
+    "Duration": {
+      "Value": 15,
+      "Unit": "minutes"
+    },
+    "Type": "Flexibility exercises",
+    "RestPeriod": "As needed",
+    "Progression": "Gentle increase in stretch hold time",
+    "Supervision": "Follow physical therapist recommendations"
+  }
+]

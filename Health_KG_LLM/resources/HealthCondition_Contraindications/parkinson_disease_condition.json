@@ -1,0 +1,27 @@
+[
+    {
+      "HealthCondition": "Parkinson’s Disease",
+      "Variation": "Stage 1–2 (early, mild)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Ankle","Knee"]
+    },
+    {
+      "HealthCondition": "Parkinson’s Disease",
+      "Variation": "Stage 3 (moderate)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee","Hip"]
+    },
+    {
+      "HealthCondition": "Parkinson’s Disease",
+      "Variation": "Stage 4–5 (advanced, significant motor impairment)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Ankle","Knee","Hip","Spine","Shoulder"]
+    }
+  ]
+  

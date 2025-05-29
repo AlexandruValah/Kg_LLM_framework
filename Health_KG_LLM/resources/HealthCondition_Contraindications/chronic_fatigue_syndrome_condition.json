@@ -1,0 +1,27 @@
+[
+    {
+      "HealthCondition": "Chronic Fatigue Syndrome",
+      "Variation": "Mild",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Chronic Fatigue Syndrome",
+      "Variation": "Moderate",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["None"]
+    },
+    {
+      "HealthCondition": "Chronic Fatigue Syndrome",
+      "Variation": "Severe",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["None"]
+    }
+  ]
+  

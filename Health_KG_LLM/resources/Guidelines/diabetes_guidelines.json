@@ -1,0 +1,58 @@
+[
+    {
+      "HealthCondition": "Diabetes",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": ["Low-impact aerobic (brisk walking, cycling, swimming)"],
+      "HeartRateZone": "50-70% max",
+      "RestPeriod": "Avoid >48 h between sessions to sustain insulin-sensitivity gains",
+      "Progression": "Add 5 minutes every 2 weeks until 60 minutes/session",
+      "Supervision": "First sessions with a diabetes educator; check blood glucose before & after; carry rapid-acting carbohydrate",
+      "Equipment": ["Comfortable footwear", "Heart-rate monitor", "Glucose tablets"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": ["Progressive resistance training (8–10 major muscle groups)"],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase resistance 5–10 % once 12 reps are completed comfortably",
+      "Supervision": "Initial instruction by certified trainer; inspect feet post-exercise if neuropathy present",
+      "Equipment": ["Resistance bands", "Adjustable dumbbells", "Weight machines"]
+    },
+    {
+      "HealthCondition": "Diabetes",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": ["Flexibility & balance (yoga, static stretches)"],
+      "RestPeriod": "As needed",
+      "Progression": "Gradually extend stretch holds to 30 seconds; add single-leg or unstable-surface work if safe",
+      "Supervision": "Follow individualized plan; avoid overstretching areas with reduced sensation",
+      "Equipment": ["Yoga mat", "Foam pad or balance cushion"]
+    }
+  ]
+  

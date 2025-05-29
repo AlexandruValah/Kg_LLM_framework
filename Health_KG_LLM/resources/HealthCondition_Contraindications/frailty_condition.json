@@ -1,0 +1,27 @@
+[
+    {
+      "HealthCondition": "Frailty",
+      "Variation": "Prefrail (early stages)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Frailty",
+      "Variation": "Frail (moderate severity)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Knee","Ankle","Spine"]
+    },
+    {
+      "HealthCondition": "Frailty",
+      "Variation": "Severely frail (high risk/dependent)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Knee","Ankle","Spine","Shoulder"]
+    }
+  ]
+  

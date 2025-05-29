@@ -1,0 +1,203 @@
+[
+    {
+      "ExerciseName": "Jumping Jacks",
+      "ExerciseType": "Aerobic",
+      "Description": "A full-body cardio exercise involving jumping while spreading legs and arms simultaneously",
+      "ImpactLevel": "Moderate",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Ankle", "Knee", "Hip", "Shoulder"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Running",
+      "ExerciseType": "Aerobic",
+      "Description": "A high-impact cardio exercise focusing on leg endurance and cardiovascular fitness",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["Running Shoes"]
+    },
+    {
+      "ExerciseName": "Jump Rope",
+      "ExerciseType": "Aerobic",
+      "Description": "A fast-paced cardio exercise involving continuous jumping over a swinging rope",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Ankle", "Knee", "Wrist", "Shoulder"],
+      "Equipment": ["Jump Rope"]
+    },
+    {
+      "ExerciseName": "High Knees",
+      "ExerciseType": "Aerobic",
+      "Description": "A cardio exercise where knees are lifted to waist height rapidly while running in place",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Butt Kicks",
+      "ExerciseType": "Aerobic",
+      "Description": "A cardio drill where heels kick the glutes alternately while jogging in place",
+      "ImpactLevel": "Moderate",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Knee", "Ankle", "Hip"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Mountain Climbers",
+      "ExerciseType": "Aerobic",
+      "Description": "A full-body cardio move mimicking climbing, performed in a plank position",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Shoulder", "Elbow", "Hip", "Knee", "Ankle"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Burpees",
+      "ExerciseType": "Aerobic",
+      "Description": "A high-intensity, full-body cardio exercise combining squat, jump, and push-up",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Ankle", "Knee", "Hip", "Shoulder", "Elbow"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Cycling",
+      "ExerciseType": "Aerobic",
+      "Description": "A low-impact cardio exercise performed on a bike targeting leg endurance and cardiovascular health",
+      "ImpactLevel": "Low",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["Bicycle"]
+    },
+    {
+      "ExerciseName": "Swimming",
+      "ExerciseType": "Aerobic",
+      "Description": "A full-body, low-impact cardio exercise performed in water, improving cardiovascular endurance",
+      "ImpactLevel": "Low",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Shoulder", "Elbow", "Hip", "Knee"],
+      "Equipment": ["Swimming Pool"]
+    },
+    {
+      "ExerciseName": "Step Aerobics",
+      "ExerciseType": "Aerobic",
+      "Description": "A cardio workout involving stepping on and off a raised platform to improve heart health",
+      "ImpactLevel": "Moderate",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["Step Platform"]
+    },
+    {
+      "ExerciseName": "Box Jumps",
+      "ExerciseType": "Aerobic",
+      "Description": "A plyometric cardio exercise where you jump onto and off a sturdy box or platform",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["Box", "Platform"]
+    },
+    {
+      "ExerciseName": "Skater Jumps",
+      "ExerciseType": "Aerobic",
+      "Description": "A lateral jumping cardio move mimicking a speed skater’s motion to improve power and balance",
+      "ImpactLevel": "Moderate",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Jogging in Place",
+      "ExerciseType": "Aerobic",
+      "Description": "A simple cardio exercise performed by jogging without moving forward",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Shadow Boxing",
+      "ExerciseType": "Aerobic",
+      "Description": "A cardio workout involving punching motions performed without a bag or opponent",
+      "ImpactLevel": "Low",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Shoulder", "Elbow", "Wrist", "Hip", "Knee"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Jump Squats",
+      "ExerciseType": "Aerobic",
+      "Description": "A plyometric move combining a squat with a jump to increase heart rate and power",
+      "ImpactLevel": "High",
+      "Intensity": "High",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Elliptical Training",
+      "ExerciseType": "Aerobic",
+      "Description": "A low-impact cardio exercise performed on an elliptical machine targeting the whole body",
+      "ImpactLevel": "Low",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Hip", "Knee", "Ankle", "Shoulder"],
+      "Equipment": ["Elliptical Machine"]
+    },
+    {
+      "ExerciseName": "Walking",
+      "ExerciseType": "Aerobic",
+      "Description": "A low-impact cardio exercise involving continuous, moderate-paced movement on foot",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Stair Climbing",
+      "ExerciseType": "Aerobic",
+      "Description": "A cardio exercise performed by repeatedly walking or running up stairs to increase endurance",
+      "ImpactLevel": "Moderate",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Ankle", "Knee", "Hip"],
+      "Equipment": ["Stairs"]
+    },
+    {
+      "ExerciseName": "Dancing",
+      "ExerciseType": "Aerobic",
+      "Description": "A fun cardio workout involving rhythmic movement to music, improving cardiovascular health",
+      "ImpactLevel": "Low",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee", "Ankle", "Shoulder"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Hiking",
+      "ExerciseType": "Aerobic",
+      "Description": "An outdoor cardio activity involving walking on trails with varying terrain and elevation",
+      "ImpactLevel": "Moderate",
+      "Intensity": "Moderate",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee", "Ankle"],
+      "Equipment": ["Hiking Shoes"]
+    }
+  ]
+  

@@ -1,0 +1,43 @@
+[
+    {
+      "HealthCondition": "Wheelchair Use",
+      "Variation": "Neurological conditions",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle","Shoulder"]
+    },
+    {
+      "HealthCondition": "Wheelchair Use",
+      "Variation": "Spinal Cord Injury",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle","Shoulder"]
+    },
+    {
+      "HealthCondition": "Wheelchair Use",
+      "Variation": "Muscular disorders",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Shoulder","Hip","Knee","Ankle","Spine"]
+    },
+    {
+      "HealthCondition": "Wheelchair Use",
+      "Variation": "Amputations",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle","Shoulder"]
+    },
+    {
+      "HealthCondition": "Wheelchair Use",
+      "Variation": "Orthopedic conditions",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle"]
+    }
+  ]
+  

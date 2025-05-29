@@ -1,0 +1,163 @@
+[
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Spastic - Level I",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Spastic - Level II",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Spastic - Level III",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Spastic - Level IV",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Spastic - Level V",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Dyskinetic/Athetoid - Level I",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Neck","Shoulder","Elbow","Wrist"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Dyskinetic/Athetoid - Level II",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Neck","Shoulder","Elbow","Wrist"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Dyskinetic/Athetoid - Level III",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Neck","Shoulder","Elbow","Wrist"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Dyskinetic/Athetoid - Level IV",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Neck","Shoulder","Elbow","Wrist"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Dyskinetic/Athetoid - Level V",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Neck","Shoulder","Elbow","Wrist"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Ataxic - Level I",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Ataxic - Level II",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Ataxic - Level III",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Ataxic - Level IV",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Ataxic - Level V",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Mixed - Level I",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle","Wrist","Elbow","Shoulder","Neck"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Mixed - Level II",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle","Wrist","Elbow","Shoulder","Neck"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Mixed - Level III",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Knee","Ankle","Wrist","Elbow","Shoulder","Neck"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Mixed - Level IV",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Knee","Ankle","Wrist","Elbow","Shoulder","Neck"]
+    },
+    {
+      "HealthCondition": "Cerebral Palsy",
+      "Variation": "Mixed - Level V",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Knee","Ankle","Wrist","Elbow","Shoulder","Neck"]
+    }
+  ]
+  

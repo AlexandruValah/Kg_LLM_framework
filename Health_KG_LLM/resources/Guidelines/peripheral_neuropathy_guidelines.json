@@ -1,0 +1,37 @@
+[
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Frequency": { "Value": 5, "Unit": "per week" },
+      "Intensity": "Moderate",
+      "Duration": { "Value": 30, "Unit": "minutes" },
+      "Type": ["Low-impact aerobic (walking on level surfaces or treadmill with rails, stationary cycling, aquatic)"],
+      "HeartRateZone": "50-70% max",
+      "RestPeriod": "Avoid >24 h between sessions to sustain metabolic benefits",
+      "Progression": "Add 5 minutes every 2 weeks if no foot pain or skin breakdown",
+      "Supervision": "Inspect feet before & after; wear well-fitted cushioned shoes; carry rapid-acting carbohydrate if diabetic",
+      "Equipment": ["Supportive footwear", "Heart-rate monitor", "Stationary bike or pool access"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Frequency": { "Value": 3, "Unit": "per week" },
+      "Intensity": "Moderate",
+      "Duration": { "Value": 30, "Unit": "minutes" },
+      "Type": ["Progressive resistance training (lower-limb & trunk focus)"],
+      "RestPeriod": { "Value": 48, "Unit": "hours" },
+      "Progression": "Increase load ≤10 % when 12 reps feel easy; avoid high-impact eccentric lifts",
+      "Supervision": "Begin with a physiotherapist to ensure alignment and tempo; re-check feet for pressure areas",
+      "Equipment": ["Resistance bands", "Ankle weights", "Seated or wheelchair-accessible weight machines"]
+    },
+    {
+      "HealthCondition": "Peripheral Neuropathy",
+      "Frequency": { "Value": 5, "Unit": "per week" },
+      "Intensity": "Low",
+      "Duration": { "Value": 15, "Unit": "minutes" },
+      "Type": ["Balance & proprioception drills (tandem stance, heel-toe walk, wobble board)", "Gentle flexibility"],
+      "RestPeriod": "As needed",
+      "Progression": "Reduce hand support or add unstable surfaces as stability improves",
+      "Supervision": "Train near a stable rail or with a partner; stop if numbness or pain increases",
+      "Equipment": ["Balance pad", "Stable chair/rail", "Yoga strap"]
+    }
+  ]
+  

@@ -1,0 +1,74 @@
+[
+    {
+      "HealthCondition": "Frailty",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 20,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Progressive resistance (sit-to-stand, leg press)",
+        "Upper-body theraband exercises"
+      ],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase load 5-10 % when 10–15 reps are completed with good form",
+      "Supervision": "Sessions initially supervised by physiotherapist or certified trainer",
+      "Equipment": [
+        "Resistance bands",
+        "Ankle weights",
+        "Seated weight machines"
+      ]
+    },
+    {
+      "HealthCondition": "Frailty",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": "Balance & gait training (tandem stance, weight shifts, heel-toe walking)",
+      "Progression": "Reduce hand support or add unstable surfaces as balance improves",
+      "Supervision": "Start under professional guidance; have stable support available",
+      "Equipment": [
+        "Balance pad",
+        "Sturdy chair or rail"
+      ]
+    },
+    {
+      "HealthCondition": "Frailty",
+      "Frequency": {
+        "Value": 4,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 20,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Low-impact aerobic (slow walking, stationary cycling, aquatic)",
+        "Gentle flexibility cool-down"
+      ],
+      "HeartRateZone": "40-60% max",
+      "RestPeriod": "Allow extra rest if fatigue or soreness",
+      "Progression": "Add 2–3 minutes per session every 2 weeks, staying below 7/10 exertion",
+      "Supervision": "Monitor perceived exertion & vitals; consider companion walk",
+      "Equipment": [
+        "Supportive footwear",
+        "Stationary bike with backrest",
+        "Pool access"
+      ]
+    }
+  ]
+  

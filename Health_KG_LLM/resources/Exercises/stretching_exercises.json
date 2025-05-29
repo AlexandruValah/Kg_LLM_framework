@@ -1,0 +1,203 @@
+[
+    {
+      "ExerciseName": "Standing Hamstring Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch targeting the hamstrings by bending forward and reaching for the toes while standing",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Hip", "Knee", "Spine"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Quadriceps Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A standing stretch focusing on the front thigh muscles by pulling the ankle toward the glutes",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "High",
+      "JointInvolvement": ["Hip", "Knee"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Cat-Cow Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A dynamic spinal stretch that increases flexibility in the spine and warms up the back",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Spine", "Neck"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Chest Opener Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch that opens the chest and shoulders by clasping hands behind the back and lifting the chest",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Shoulder", "Chest"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Seated Spinal Twist",
+      "ExerciseType": "Stretching",
+      "Description": "A seated stretch to increase spinal rotation and improve flexibility in the back",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Spine", "Hip"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Calf Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch targeting the calf muscles by pushing against a wall with one leg extended back",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Ankle", "Knee"],
+      "Equipment": ["Wall"]
+    },
+    {
+      "ExerciseName": "Triceps Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch focusing on the triceps by reaching one arm overhead and pulling the elbow with the opposite hand",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Shoulder", "Elbow"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Butterfly Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A seated stretch targeting the inner thighs by pressing the soles of the feet together and leaning forward",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Hip", "Knee"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Neck Side Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A gentle stretch targeting the side neck muscles by tilting the head to one side",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Neck"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Hip Flexor Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A lunge position stretch that targets the hip flexor muscles at the front of the hip",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Hip", "Knee"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Wrist Flexor Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch targeting the muscles in the wrist and forearm by extending the arm and pulling back the fingers",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Wrist", "Elbow"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Child’s Pose",
+      "ExerciseType": "Stretching",
+      "Description": "A resting yoga stretch that elongates the spine and opens the hips",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Spine", "Hip", "Knee"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Shoulder Cross-body Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch targeting the shoulder by pulling one arm across the chest",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Shoulder"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Standing Side Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch elongating the side torso by reaching one arm overhead and leaning to the opposite side",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Spine", "Shoulder", "Hip"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Seated Forward Fold",
+      "ExerciseType": "Stretching",
+      "Description": "A seated stretch targeting the hamstrings and lower back by reaching toward the toes",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Hip", "Knee", "Spine"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Chest Stretch in Doorway",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch that opens the chest by placing arms on a doorway and leaning forward",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Shoulder", "Chest"],
+      "Equipment": ["Doorway"]
+    },
+    {
+      "ExerciseName": "Hip Abductor Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch targeting the outer hip muscles by crossing one leg over the other and twisting the torso",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Hip", "Spine"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Lower Back Twist",
+      "ExerciseType": "Stretching",
+      "Description": "A spinal rotation stretch performed lying down to increase mobility in the lower back",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Spine", "Hip"],
+      "Equipment": ["None"]
+    },
+    {
+      "ExerciseName": "Standing Calf Stretch with Step",
+      "ExerciseType": "Stretching",
+      "Description": "A calf stretch performed on a step by lowering the heels below the toes",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Moderate",
+      "JointInvolvement": ["Ankle"],
+      "Equipment": ["Step"]
+    },
+    {
+      "ExerciseName": "Side Neck Stretch",
+      "ExerciseType": "Stretching",
+      "Description": "A stretch focusing on the neck and upper shoulder by gently pulling the head sideways with the hand",
+      "ImpactLevel": "Low",
+      "Intensity": "Low",
+      "BalanceRequirement": "Low",
+      "JointInvolvement": ["Neck", "Shoulder"],
+      "Equipment": ["None"]
+    }
+  ]
+  

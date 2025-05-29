@@ -1,0 +1,99 @@
+[
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Duchenne MD - Early-stage",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Duchenne MD - Moderate progression",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Duchenne MD - Advanced progression (wheelchair-bound)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Becker MD - Early-stage",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Becker MD - Moderate progression",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Becker MD - Advanced progression (wheelchair-bound)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Myotonic MD - Early-stage",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Neck","Shoulder","Wrist","Ankle"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Myotonic MD - Moderate progression",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Neck","Shoulder","Wrist","Ankle"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Myotonic MD - Advanced progression (wheelchair-bound)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Neck","Shoulder","Wrist","Ankle"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Limb-Girdle MD - Early-stage",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Limb-Girdle MD - Moderate progression",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    },
+    {
+      "HealthCondition": "Muscular Dystrophy",
+      "Variation": "Limb-Girdle MD - Advanced progression (wheelchair-bound)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Hip","Shoulder"]
+    }
+  ]
+  

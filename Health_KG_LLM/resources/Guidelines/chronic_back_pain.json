@@ -1,0 +1,58 @@
+[
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": ["Core stabilization", "Resistance training for trunk & hip"],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "HeartRateZone": "50-65% max",
+      "Progression": "Increase hold time or resistance once exercises are pain-free",
+      "Supervision": "Initial instruction by physiotherapist to ensure neutral spine",
+      "Equipment": ["Exercise mat", "Resistance bands", "Swiss ball"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": ["Low-impact aerobic (walking, swimming, stationary cycling)"],
+      "HeartRateZone": "50-70% max",
+      "Progression": "Add 5 minutes to each session every 2 weeks",
+      "Supervision": "Maintain upright posture; use supportive footwear or properly fitted bike",
+      "Equipment": ["Treadmill or flat path", "Pool access", "Stationary bike"]
+    },
+    {
+      "HealthCondition": "Chronic Back Pain",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": "Flexibility & mobility (cat-camel, knee-to-chest, piriformis stretch)",
+      "RestPeriod": "As needed",
+      "Progression": "Gradually extend stretch holds to 30 seconds",
+      "Supervision": "Follow back-specific stretching plan from therapist",
+      "Equipment": ["Yoga strap", "Foam roller", "Exercise mat"]
+    }
+  ]
+  

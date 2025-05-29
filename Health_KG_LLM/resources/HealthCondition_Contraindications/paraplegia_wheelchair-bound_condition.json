@@ -1,0 +1,35 @@
+[
+    {
+      "HealthCondition": "Paraplegia (Wheelchair-bound)",
+      "Variation": "Thoracic (upper)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee"]
+    },
+    {
+      "HealthCondition": "Paraplegia (Wheelchair-bound)",
+      "Variation": "Thoracic (mid)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee"]
+    },
+    {
+      "HealthCondition": "Paraplegia (Wheelchair-bound)",
+      "Variation": "Thoracic (lower)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Paraplegia (Wheelchair-bound)",
+      "Variation": "Lumbar",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle"]
+    }
+  ]
+  

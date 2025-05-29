@@ -1,0 +1,79 @@
+[
+    {
+      "HealthCondition": "Parkinson’s Disease",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Low-impact aerobic (brisk walking, cycling, elliptical, aquatic)",
+        "Parkinson-specific skill work (boxing-style drills, high-amplitude BIG moves)"
+      ],
+      "HeartRateZone": "60-75% max",
+      "RestPeriod": "Try not to exceed 24 h between sessions to sustain neuro-protective benefits",
+      "Progression": "Add 5 min per session every 2 weeks until 60 min is reached, provided no increase in freezing or fatigue",
+      "Supervision": "Schedule initial sessions during your medication “on” time with a Parkinson-specialised physiotherapist",
+      "Equipment": [
+        "Supportive footwear",
+        "Heart-rate monitor",
+        "Metronome or smartphone app for cadence cues"
+      ]
+    },
+    {
+      "HealthCondition": "Parkinson’s Disease",
+      "Frequency": {
+        "Value": 2,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Progressive resistance training (8–10 major muscle groups)",
+        "Power-focused concentric lifts (sit-to-stand, step-ups)"
+      ],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase load 5–10 % once 12 reps can be performed with good form and no exacerbation of tremor",
+      "Supervision": "Learn joint-safe technique and bracing from a certified trainer familiar with PD",
+      "Equipment": [
+        "Resistance bands",
+        "Adjustable dumbbells",
+        "Weight machines with upright back support"
+      ]
+    },
+    {
+      "HealthCondition": "Parkinson’s Disease",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 20,
+        "Unit": "minutes"
+      },
+      "Type": [
+        "Balance & agility (tai chi, tandem walk, obstacle steps)",
+        "Flexibility stretching (hip flexors, calves, thoracic rotation)"
+      ],
+      "RestPeriod": "As needed",
+      "Progression": "Reduce hand support, add dual-task cues or eyes-closed stance as stability improves",
+      "Supervision": "Exercise in a clutter-free area; have a stable support rail or partner spot",
+      "Equipment": [
+        "Balance pad or wobble board",
+        "Yoga mat",
+        "Stable chair/rail"
+      ]
+    }
+  ]
+  

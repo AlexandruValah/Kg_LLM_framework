@@ -1,0 +1,99 @@
+[
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Ischemic - Left hemisphere - Mild (limited impairment)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Right Shoulder","Right Elbow","Right Wrist","Right Hip","Right Knee","Right Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Ischemic - Left hemisphere - Moderate (partial paralysis)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Right Shoulder","Right Elbow","Right Wrist","Right Hip","Right Knee","Right Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Ischemic - Left hemisphere - Severe (complete paralysis or hemiplegia)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Right Shoulder","Right Elbow","Right Wrist","Right Hip","Right Knee","Right Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Ischemic - Right hemisphere - Mild (limited impairment)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Left Shoulder","Left Elbow","Left Wrist","Left Hip","Left Knee","Left Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Ischemic - Right hemisphere - Moderate (partial paralysis)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Left Shoulder","Left Elbow","Left Wrist","Left Hip","Left Knee","Left Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Ischemic - Right hemisphere - Severe (complete paralysis or hemiplegia)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Left Shoulder","Left Elbow","Left Wrist","Left Hip","Left Knee","Left Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Hemorrhagic - Left hemisphere - Mild (limited impairment)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Right Shoulder","Right Elbow","Right Wrist","Right Hip","Right Knee","Right Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Hemorrhagic - Left hemisphere - Moderate (partial paralysis)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Right Shoulder","Right Elbow","Right Wrist","Right Hip","Right Knee","Right Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Hemorrhagic - Left hemisphere - Severe (complete paralysis or hemiplegia)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Right Shoulder","Right Elbow","Right Wrist","Right Hip","Right Knee","Right Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Hemorrhagic - Right hemisphere - Mild (limited impairment)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Left Shoulder","Left Elbow","Left Wrist","Left Hip","Left Knee","Left Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Hemorrhagic - Right hemisphere - Moderate (partial paralysis)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Left Shoulder","Left Elbow","Left Wrist","Left Hip","Left Knee","Left Ankle"]
+    },
+    {
+      "HealthCondition": "Stroke",
+      "Variation": "Hemorrhagic - Right hemisphere - Severe (complete paralysis or hemiplegia)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Left Shoulder","Left Elbow","Left Wrist","Left Hip","Left Knee","Left Ankle"]
+    }
+  ]
+  

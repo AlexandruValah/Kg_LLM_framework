@@ -1,0 +1,58 @@
+[
+    {
+      "HealthCondition": "Obesity",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 40,
+        "Unit": "minutes"
+      },
+      "Type": ["Low-impact aerobic (brisk walking, cycling, elliptical, aquatic)"],
+      "HeartRateZone": "55-70% max",
+      "RestPeriod": "Try not to exceed 24 h between sessions to maintain metabolic benefits",
+      "Progression": "Add 5 min per session every 1–2 weeks until 60 min is reached",
+      "Supervision": "Medical clearance advised; learn pacing & footwear fit from an exercise professional",
+      "Equipment": ["Supportive footwear", "Heart-rate monitor", "Pool or stationary bike"]
+    },
+    {
+      "HealthCondition": "Obesity",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": ["Progressive resistance training (8–10 major muscle groups)"],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "Progression": "Increase load 5–10 % when 12 reps are completed comfortably for two consecutive workouts",
+      "Supervision": "Start with a trainer to ensure joint-safe technique, especially for knees & lower back",
+      "Equipment": ["Resistance bands", "Adjustable dumbbells", "Weight machines with wide seats"]
+    },
+    {
+      "HealthCondition": "Obesity",
+      "Frequency": {
+        "Value": 5,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 10,
+        "Unit": "minutes"
+      },
+      "Type": ["Flexibility & mobility (dynamic warm-ups, static stretches)"],
+      "RestPeriod": "As needed",
+      "Progression": "Gradually extend stretch holds to 30 s and incorporate foam-rolling as tolerated",
+      "Supervision": "Follow guidance from a physiotherapist if mobility restrictions exist",
+      "Equipment": ["Exercise mat", "Foam roller", "Yoga strap"]
+    }
+  ]
+  

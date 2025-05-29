@@ -1,0 +1,57 @@
+[
+    {
+      "HealthCondition": "Amputees",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Moderate",
+      "Duration": {
+        "Value": 30,
+        "Unit": "minutes"
+      },
+      "Type": ["Resistance training", "Core-stabilization"],
+      "RestPeriod": {
+        "Value": 48,
+        "Unit": "hours"
+      },
+      "HeartRateZone": "50-70% max",
+      "Progression": "Gradually increase resistance or prosthesis load",
+      "Supervision": "Initial sessions with physiotherapist & prosthetist",
+      "Equipment": ["Resistance bands", "Cable machine", "Prosthesis"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Frequency": {
+        "Value": 4,
+        "Unit": "per week"
+      },
+      "Intensity": "Low-to-Moderate",
+      "Duration": {
+        "Value": 20,
+        "Unit": "minutes"
+      },
+      "Type": ["Cardiovascular (arm ergometer)", "Walking with prosthesis"],
+      "HeartRateZone": "50-75% max",
+      "Progression": "Add 5 minutes to each session every 2 weeks",
+      "Supervision": "Inspect residual limb skin before & after exercise",
+      "Equipment": ["Arm ergometer", "Treadmill with handrails"]
+    },
+    {
+      "HealthCondition": "Amputees",
+      "Frequency": {
+        "Value": 3,
+        "Unit": "per week"
+      },
+      "Intensity": "Low",
+      "Duration": {
+        "Value": 15,
+        "Unit": "minutes"
+      },
+      "Type": "Balance & proprioception exercises",
+      "Progression": "Introduce unstable surfaces or eyes-closed stance",
+      "Equipment": ["Balance board", "Foam pad"],
+      "RestPeriod": "As needed"
+    }
+  ]
+  

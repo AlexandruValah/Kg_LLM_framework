@@ -1,0 +1,51 @@
+[
+    {
+      "HealthCondition": "Spinal Cord Injury",
+      "Variation": "Complete - Cervical (quadriplegia/tetraplegia)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High","Moderate"],
+      "JointInvolvement": ["Spine","Neck","Shoulder","Elbow","Wrist","Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Spinal Cord Injury",
+      "Variation": "Incomplete - Cervical (quadriplegia/tetraplegia)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Neck","Shoulder","Elbow","Wrist","Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Spinal Cord Injury",
+      "Variation": "Complete - Thoracic (paraplegia)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Spinal Cord Injury",
+      "Variation": "Incomplete - Thoracic (paraplegia)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Spinal Cord Injury",
+      "Variation": "Complete - Lumbar (paraplegia)",
+      "ImpactLevel": ["High","Moderate"],
+      "Intensity": ["High","Moderate"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle"]
+    },
+    {
+      "HealthCondition": "Spinal Cord Injury",
+      "Variation": "Incomplete - Lumbar (paraplegia)",
+      "ImpactLevel": ["High"],
+      "Intensity": ["High"],
+      "BalanceRequirement": ["High"],
+      "JointInvolvement": ["Spine","Hip","Knee","Ankle"]
+    }
+  ]
+  
